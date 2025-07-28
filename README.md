@@ -16,6 +16,18 @@ A smart, AI-powered web application that predicts the most probable disease base
 
 💾 Option to export results or save user history (if implemented)
 
+How it works : 
+
+only front-end have been deployed.
+back-end will not work in deployed version.
+to run full project
+-git clone https://github.com/vishurawat1/disease-prediction.git to your folder
+-run all in .ipynb file 
+- go live with html
+all set to go 
+
+
+
 🧠 Technologies Used
 Layer	                Technology
 Frontend	            HTML, CSS, JavaScript (or React, etc.)
